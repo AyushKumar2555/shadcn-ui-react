@@ -84,7 +84,7 @@ Run the initialization command and answer the prompts.
 
 1.  **Run the init command**:
     ```sh
-    npx shadcn-ui@latest init
+    npx shadcn@latest init
     ```
 2.  **Answer the prompts** for a typical JavaScript setup:
     *   **Which style would you like to use?**: `Default`
@@ -101,7 +101,7 @@ To verify the setup, add a `Button` component.
 
 1.  **Add a button component**:
     ```sh
-    npx shadcn-ui@latest add button
+    npx shadcn@latest add button
     ```
 2.  **Import and use the component**:
     Update `src/App.jsx` to use the new `Button` component.
